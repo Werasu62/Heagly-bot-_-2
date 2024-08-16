@@ -1,0 +1,23 @@
+from pypresence import Presence
+from time import time
+
+RPC = Presence("Id Bots")
+btns = [
+    {
+        "label": "Discord Server",
+RPS.connect} Heagly Bot.exe
+    }
+]
+
+RPC.connect()
+RPC.update(
+    state="sweeter than your life",
+    details="Physic Discord Bot Dev",
+    start=time(),
+    buttons=btns,
+    large_image="Heagly Bot",
+    small_image="python",
+    large_text="Physic | Dev",
+    small_text="Python Dev"
+)
+()
